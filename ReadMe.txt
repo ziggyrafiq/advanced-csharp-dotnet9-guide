@@ -7,7 +7,7 @@ In this repository, you will find a detailed guide for expert .NET Software Engi
 Clone this repository to your local machine to get started using the resources:
 
  ```bash
-git clone https://github.com/ziggyrafiq/CSharp12-Clean-Code-Practices.git`
+git clone https://github.com/ziggyrafiq/advanced-csharp-dotnet9-guide.git`
 ```
 
 Explore the contents, refer to the guidelines, and use the examples to improve your C# programming skills!
