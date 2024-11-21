@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|i:\\github\\advanced-csharp-dotnet9-guide\\expertdotnetsoftwareengineering\\extendexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|solutionrelative:expertdotnetsoftwareengineering\\extendexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|i:\\github\\advanced-csharp-dotnet9-guide\\expertdotnetsoftwareengineering\\autodtogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|solutionrelative:expertdotnetsoftwareengineering\\autodtogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|i:\\github\\advanced-csharp-dotnet9-guide\\expertdotnetsoftwareengineering\\autodtoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|solutionrelative:expertdotnetsoftwareengineering\\autodtoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|i:\\github\\advanced-csharp-dotnet9-guide\\expertdotnetsoftwareengineering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|solutionrelative:expertdotnetsoftwareengineering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|i:\\github\\advanced-csharp-dotnet9-guide\\expertdotnetsoftwareengineering\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|solutionrelative:expertdotnetsoftwareengineering\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|i:\\github\\advanced-csharp-dotnet9-guide\\expertdotnetsoftwareengineering\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C8BF07-62BC-48B4-A116-CB1BA1F3C64E}|ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj|solutionrelative:expertdotnetsoftwareengineering\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoDtoGenerator.cs",
+              "DocumentMoniker": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\AutoDtoGenerator.cs",
+              "RelativeDocumentMoniker": "ExpertDotNetSoftwareEngineering\\AutoDtoGenerator.cs",
+              "ToolTip": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\AutoDtoGenerator.cs",
+              "RelativeToolTip": "ExpertDotNetSoftwareEngineering\\AutoDtoGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:31:18.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoDtoAttribute.cs",
+              "DocumentMoniker": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\AutoDtoAttribute.cs",
+              "RelativeDocumentMoniker": "ExpertDotNetSoftwareEngineering\\AutoDtoAttribute.cs",
+              "ToolTip": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\AutoDtoAttribute.cs",
+              "RelativeToolTip": "ExpertDotNetSoftwareEngineering\\AutoDtoAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:30:45.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "ExpertDotNetSoftwareEngineering\\CustomerDto.cs",
+              "ToolTip": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\CustomerDto.cs",
+              "RelativeToolTip": "ExpertDotNetSoftwareEngineering\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:30:12.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\Program.cs",
+              "RelativeDocumentMoniker": "ExpertDotNetSoftwareEngineering\\Program.cs",
+              "ToolTip": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\Program.cs",
+              "RelativeToolTip": "ExpertDotNetSoftwareEngineering\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:29:40.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalculable.cs",
+              "DocumentMoniker": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\ICalculable.cs",
+              "RelativeDocumentMoniker": "ExpertDotNetSoftwareEngineering\\ICalculable.cs",
+              "ToolTip": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\ICalculable.cs",
+              "RelativeToolTip": "ExpertDotNetSoftwareEngineering\\ICalculable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:28:48.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtendExamples.cs",
+              "DocumentMoniker": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\ExtendExamples.cs",
+              "RelativeDocumentMoniker": "ExpertDotNetSoftwareEngineering\\ExtendExamples.cs",
+              "ToolTip": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\ExtendExamples.cs",
+              "RelativeToolTip": "ExpertDotNetSoftwareEngineering\\ExtendExamples.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:27:58.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

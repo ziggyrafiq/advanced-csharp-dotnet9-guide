@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "CcclQLgFWDI=",
+  "success": true,
+  "projectFilePath": "I:\\GitHub\\advanced-csharp-dotnet9-guide\\ExpertDotNetSoftwareEngineering\\ExpertDotNetSoftwareEngineering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.codeanalysis.common\\4.11.0\\microsoft.codeanalysis.common.4.11.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.0\\microsoft.dotnet.ilcompiler.9.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0\\microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

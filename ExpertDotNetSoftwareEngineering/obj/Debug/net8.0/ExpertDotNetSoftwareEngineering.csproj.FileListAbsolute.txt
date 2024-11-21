@@ -1,0 +1,14 @@
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\bin\Debug\net8.0\ExpertDotNetSoftwareEngineering.exe
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\bin\Debug\net8.0\ExpertDotNetSoftwareEngineering.deps.json
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\bin\Debug\net8.0\ExpertDotNetSoftwareEngineering.runtimeconfig.json
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\bin\Debug\net8.0\ExpertDotNetSoftwareEngineering.dll
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\bin\Debug\net8.0\ExpertDotNetSoftwareEngineering.pdb
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\obj\Debug\net8.0\ExpertDotNetSoftwareEngineering.GeneratedMSBuildEditorConfig.editorconfig
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\obj\Debug\net8.0\ExpertDotNetSoftwareEngineering.AssemblyInfoInputs.cache
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\obj\Debug\net8.0\ExpertDotNetSoftwareEngineering.AssemblyInfo.cs
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\obj\Debug\net8.0\ExpertDotNetSoftwareEngineering.csproj.CoreCompileInputs.cache
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\obj\Debug\net8.0\ExpertDotNetSoftwareEngineering.dll
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\obj\Debug\net8.0\refint\ExpertDotNetSoftwareEngineering.dll
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\obj\Debug\net8.0\ExpertDotNetSoftwareEngineering.pdb
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\obj\Debug\net8.0\ExpertDotNetSoftwareEngineering.genruntimeconfig.cache
+I:\GitHub\advanced-csharp-dotnet9-guide\ExpertDotNetSoftwareEngineering\obj\Debug\net8.0\ref\ExpertDotNetSoftwareEngineering.dll
